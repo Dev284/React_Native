@@ -4,7 +4,7 @@ import { StyleSheet, Text, View } from 'react-native';
 export default function Header() {
   return (
     <View style={styles.container}>
-      <Text>Header</Text>
+      <Text>TODO App</Text>
       <StatusBar style="auto" />
     </View>
   );
